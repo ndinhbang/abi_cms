@@ -8,12 +8,15 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.2.5|^8.0",
+        "php": "^7.3|^8.0",
+        "arrilot/laravel-widgets": "^3.13",
+        "doctrine/dbal": "^3.3",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3.1|^7.0.1",
         "laravel/framework": "^7.29",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "nwidart/laravel-modules": "^8.3"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
